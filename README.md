@@ -1,4 +1,4 @@
-<p align="left">programmer, mostly front-end.<br>working on a project right now.</p>
+<p align="left">programmer, mostly front-end.
 
 ###
 
