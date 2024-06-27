@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">17 y.o. developer from Istanbul, Turkey. Interested in web (mostly frontend).</p>
+<p align="left">17 y.o. developer from Istanbul, Turkiye. Interested in web (mostly frontend).</p>
 
 ###
 
