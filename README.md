@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Self-taught frontend developer from Türkiye with 5 years of experience.</p>
+<p align="left">Self-taught frontend developer with 5 years of experience.</p>
 
 ###
 
